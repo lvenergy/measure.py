@@ -1,2 +1,1 @@
-# measure.py
-grab data from DSO and output a CSV file
+# test and save measurement results from DSO in a CSV file
